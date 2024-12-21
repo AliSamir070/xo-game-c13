@@ -3,6 +3,7 @@ import 'package:x_o_c13_maadi/board_screen.dart';
 import 'package:x_o_c13_maadi/home_screen.dart';
 
 void main() {
+  // new code
   runApp(const MyApp());
 }
 
